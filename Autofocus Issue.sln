@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofocus Issue", "Autofocus Issue\Autofocus Issue.csproj", "{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|arm64.ActiveCfg = Debug|arm64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|arm64.Build.0 = Debug|arm64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|arm64.Deploy.0 = Debug|arm64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|x64.ActiveCfg = Debug|x64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|x64.Build.0 = Debug|x64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|x64.Deploy.0 = Debug|x64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|x86.ActiveCfg = Debug|x86
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|x86.Build.0 = Debug|x86
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Debug|x86.Deploy.0 = Debug|x86
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|arm64.ActiveCfg = Release|arm64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|arm64.Build.0 = Release|arm64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|arm64.Deploy.0 = Release|arm64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|x64.ActiveCfg = Release|x64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|x64.Build.0 = Release|x64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|x64.Deploy.0 = Release|x64
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|x86.ActiveCfg = Release|x86
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|x86.Build.0 = Release|x86
+		{54D298BD-A14C-45F4-8B9A-66FCB5CAB01A}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A6166B1-4FA6-44E9-8FB7-859B3A4C253A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Autofocus_Issue": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
