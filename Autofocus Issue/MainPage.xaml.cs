@@ -38,7 +38,7 @@ namespace Autofocus_Issue
 
                 var settings = new MediaCaptureInitializationSettings
                 {
-                    VideoDeviceId = camDevice[1].Id,
+                    VideoDeviceId = camDevice[0].Id,
                     StreamingCaptureMode = StreamingCaptureMode.Video,
                     MemoryPreference = MediaCaptureMemoryPreference.Auto
                 };
